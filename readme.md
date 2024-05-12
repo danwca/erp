@@ -19,6 +19,8 @@
 6. [华夏](https://www.huaxiaerp.com/), [source code](https://github.com/jishenghua/jshERP), Java, 支持插件， 明码标价
 7. [金蝶](https://www.kingdee.com/), 二次开发，
 8. [Refine](https://refine.dev/) is a React meta-framework for CRUD-heavy web applications. It addresses a wide range of enterprise use cases including internal tools, admin panels, dashboards and B2B apps;
+9. [OpenText](https://www.opentext.com/partners/grow-as-a-partner),
+
 
 
 #### ERP信息资源
