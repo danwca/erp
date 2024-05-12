@@ -35,5 +35,7 @@
 #### 企业管理
 1. [Contract Manager](https://www.contractscounsel.com/b/contract-manager), [Contract Manager Job Description](https://www.indeed.com/hire/job-description/contract-manager), 
 
+#### 开发工具
+1 [generator creating html imagemaps](https://www.image-map.net/)
 
 
