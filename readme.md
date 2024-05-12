@@ -7,7 +7,7 @@
 
 
 #### ERP的实质
-1. 对于开发ERP软件的软件开发人员， 需要明确ERP软件的实质，以开发ERP软件； 
+1. 对于开发ERP软件的软件开发人员， 需要明确ERP软件的实质，以便开发ERP软件，也就是ERP软件设计基础；  
 
 
 #### ERP软件
@@ -17,7 +17,8 @@
 4. [赤龙](https://www.redragon-erp.com/), [source code](https://gitee.com/redragon/redragon-erp), Java, springboot， [第三方程序](https://apps.odoo.com/apps/modules), 
 5. [万墨](https://www.wimoor.com/), [source code](https://github.com/wimoor-erp/), Java, MVC框架， 
 6. [华夏](https://www.huaxiaerp.com/), [source code](https://github.com/jishenghua/jshERP), Java, 支持插件， 明码标价
-7. [金蝶](https://www.kingdee.com/), 二次开发，  
+7. [金蝶](https://www.kingdee.com/), 二次开发，
+8. [Refine](https://refine.dev/) is a React meta-framework for CRUD-heavy web applications. It addresses a wide range of enterprise use cases including internal tools, admin panels, dashboards and B2B apps;
 
 
 #### ERP信息资源
