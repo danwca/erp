@@ -32,7 +32,8 @@
 9. [简道云](https://www.jiandaoyun.com/), 
 
 
-
+#### 企业管理
+1. [Contract Manager](https://www.contractscounsel.com/b/contract-manager), [Contract Manager Job Description](https://www.indeed.com/hire/job-description/contract-manager), 
 
 
 
