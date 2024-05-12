@@ -5,6 +5,11 @@
 2. [SAP系统](https://baike.sogou.com/v447039.htm), （Systems Applications And Products In Data Processing）是 SAP公司 推出的一个企业管理工具; SAP系统包含FI财务会计、TR财务管理、EC企业控制、MM物料管理、PS专案管理、HR人力资源管理等模块，同时具有支持多种语言、国际标准、人机交互、配备集成软件等功能。
 3. [SAP是什么](https://zhuanlan.zhihu.com/p/491900588), 是全球第三大独立软件供应商（仅次于Microsoft和Oracle），在企业管理软件领域市场占有率排名第一，是ERP市场的绝对领导者，市值1500亿美金。SAP为80%以上的全球500强企业和180多个国家/地区的437,000多家客户提供解决方案。在中国，SAP拥有15,000多家客户，并且有越来越多的中国企业选择与SAP合作。
 
+
+#### ERP的实质
+1. 对于开发ERP软件的软件开发人员， 需要明确ERP软件的实质，以开发ERP软件； 
+
+
 #### ERP软件
 1. [Dolibarr](https://www.dolibarr.org/), [source code](https://github.com/Dolibarr/dolibarr), php, [在线演示](https://demo.dolibarr.org/public/demo/), [世界范围](https://www.dolibarr.org/partners.php), 
 2. [ERPNext](https://erpnext.com/), [source code](https://github.com/frappe/erpnext), python, 云服务器收费； 
